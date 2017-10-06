@@ -15,3 +15,7 @@ business object: https://github.com/energychain/StromDAO-BusinessObject
 
 ### support
 https://keybase.io/smuemd
+
+
+retrieve meter readings
+https://fury.network/ipfs/Qmb41bSeYRZNyTJCdxa5jmToqWbiztBLaTPz9GXETDsgA4/base.html
