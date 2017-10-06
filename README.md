@@ -22,3 +22,6 @@ https://keybase.io/smuemd
 
 retrieve meter readings
 https://fury.network/ipfs/Qmb41bSeYRZNyTJCdxa5jmToqWbiztBLaTPz9GXETDsgA4/base.html
+
+
+Stefans meter: 0xEAA8789b2f942d66A880731ffFD24f56E87Cf809
