@@ -13,6 +13,9 @@ meter point ops: https://github.com/energychain/BusinessObject-MeterPointOperati
 business object: https://github.com/energychain/StromDAO-BusinessObject
 
 
+zip file for base
+https://fury.network/ipfs/QmNzQ1k5vszB1PmrUiLJtuefv2mDBjfQiwRrDbe82q6hfy
+
 ### support
 https://keybase.io/smuemd
 
